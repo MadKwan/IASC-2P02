@@ -1,6 +1,6 @@
 # Digitial Scholarship Portfoilio: Maddy Kwan
 
-![](https://static01.nyt.com/images/2016/09/28/us/17xp-pepethefrog_web1/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![](IMG_20191015_212559_847.jpg)
 
 Welcome to my online portfolio for IASC 2P02
 
