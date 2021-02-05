@@ -6,7 +6,7 @@ Welcome to my online portfolio for IASC 2P02
 
 ## Interactive Study Guide
 
-Explore my interactive study guide here.
+Explore my interactive study guide [here](2P02Team1InteractiveStudyGuide.html).
 
 ## Interactive Genealogy
 
@@ -16,10 +16,10 @@ Explore interactive genealogy here.
 
 ## Title of your story here
 
-BLAHBLAHBLAHBLAH
+Contents of Story here
 
 ## Micro Essay
 
-BLAHBLAHBLAHBLAH
+Contents of Essay here
 
 # Interactive Timeline
